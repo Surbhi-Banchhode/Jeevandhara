@@ -39,3 +39,4 @@ The system connects the frontend with the backend using **JDBC** and operates wi
 
 Here are some screenshots of the **Jeevandhara Blood Bank Management System**:
 
+
